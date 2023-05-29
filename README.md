@@ -1,4 +1,4 @@
-# Algoriths_and_data_structure
+# Algoriths and data structures
 
 1. Implement a deque using a static array. Program these operations for a deque:  
 
